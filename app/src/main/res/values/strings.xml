@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">Instagram</string>
     <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_mobile">Mobile</string>
+    <string name="title_activity_Form" />
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_dog">DogActivity</string>
+    <string name="title_activity_lottie">LottieActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_first2">FirstActivity2</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
 </resources>
